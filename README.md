@@ -25,7 +25,7 @@
 ## 🛠️ Stack y tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,github,vscode,git" alt="Stack tecnológico"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,kotlin,cpp,flutter,firebase,mysql,github,vscode,git" alt="Stack tecnológico"/>
 </p>
 
 <br>
