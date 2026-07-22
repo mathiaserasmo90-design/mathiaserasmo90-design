@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Mathias!&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Analista%20Programador%20%7C%20Creador%20de%20videojuegos%20y%20apps%20móviles&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=¡Hola,%20soy%20Mathias!&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Creador%20de%20aplicaciones%20móviles&descAlignY=70&descSize=20" width="100%"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 - 🎮 Actualmente desarrollando **Prisma Pop**, un juego de puzzle para móvil.
 - 🧠 Próximamente lanzaré una app enfocada en **salud mental**.
-- 🌱 Aprendiendo constantemente sobre desarrollo móvil y buenas prácticas de código.
+- 📚 Formándome en **bases de datos**, un área que me interesa profundizar.
 - 💬 Pregúntame sobre desarrollo web, Android o cómo estructurar un proyecto desde cero.
 
 <br>
@@ -58,12 +58,12 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathiaserasmo90-design&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mathiaserasmo90-design&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathiaserasmo90-design&theme=radical&hide_border=true" alt="Racha de contribuciones" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiaserasmo90-design&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mathiaserasmo90-design&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
 </p>
 
 <br>
@@ -84,4 +84,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+
 
