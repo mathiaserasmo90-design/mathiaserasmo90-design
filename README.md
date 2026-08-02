@@ -87,7 +87,7 @@ Sitio oficial de Prisma Studio con la presentación de Prisma Pop, un videojuego
 
 <p align="center">
 
-<a href="https://mathiaserasmo90-design.github.io/prisma-studio/">
+<a href="https://mathiaserasmo90-design.github.io/prisma-studio/index.html#inicio">
 <img src="https://img.shields.io/badge/Sitio_Web-8e44ad?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
